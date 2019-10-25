@@ -1,0 +1,15 @@
+/* CSS comments look like this.
+    You can use them to take notes right inline */
+* {
+  box-sizing: border-box;
+    }
+.bright {
+  color: green;
+}
+.dull {
+  color: orange;
+}
+img {
+width:30%;
+border:10px dashed purple;
+}
